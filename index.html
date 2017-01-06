@@ -9,19 +9,46 @@
   <meta name="author" content="WunderFriends">
 
   <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
   <![endif]-->
 
   <script src="js/vue.js"></script>
+  <script src="js/moment.js"></script>
 </head>
 
 <body>
   <div id="app">
-    {{ message }}
+    <div class="logo">
+      <h1>keep moving with your</h1>
+      <img src="image/friends.png"/>
+    </div>
+    <div v-for="friend in friends" class="friend">
+      <h2>
+        {{friend.name}}
+      </h2>
+      <div class="streak">
+        <div v-for="week in period" class="streak-week">
+          <div v-for="date in week" class="streak-item">
+            <span v-if="friend.streak[date.format('YYYY-MM-DD')]" class="normal" v-bind:style="{ 'background-color': friend.color }">
+            </span>
+            <span v-else class="normal">
+            </span>
+            <span class="popover">
+              {{date.format("DD/MM/YYYY")}}
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
+  <script src="js/friends/celsowo.js"></script>
+  <script src="js/friends/felipebernades.js"></script>
+  <script src="js/friends/gabrieljacquier.js"></script>
+  <script src="js/friends/mikelima.js"></script>
   <script src="js/scripts.js"></script>
 </body>
 </html>

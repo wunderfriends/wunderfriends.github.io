@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  text-align: center;
+  color: #333;
+}
+
+.logo {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 80px;
+}
+
+.logo h1 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.logo img {
+  width: 300px;
+}
+
+.friend {
+  padding: 8px;
+  border-bottom: 1px solid lightgray;
+}
+
+.friend h2 {
+  margin-bottom: 8px;
+}
+
+.streak {
+
+}
+
+.streak-week {
+  display:inline-block;
+  margin-right: 2px;
+}
+
+.streak-item {
+  position: relative;
+  margin-bottom: 2px;
+}
+
+.normal {
+  display:block;
+  width:12px;
+  height:12px;
+  background-color: #EEE;
+}
+
+.marked {
+  display:block;
+  width:12px;
+  height:12px;
+}
+
+.streak-item .popover {
+  position: absolute;
+  top: 12px;
+  left: 6px;
+  padding: 4px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+  background-color: rgba(0,0,0,0.7);
+  z-index: 100;
+  color: white;
+  display:none;
+}
+
+.streak-item:hover .popover {
+  display:block;
+}
