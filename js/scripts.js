@@ -5,8 +5,8 @@ var app = new Vue({
     friends: [
       {
         name: 'Celso',
-        streak: [];
+        streak: []
       }
     ]
   }
-})
+});
