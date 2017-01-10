@@ -4,6 +4,7 @@ window.friends.push({
   color: '#02B2E7',
   streak: {
     '2017-01-08': true,
-    '2017-01-09': true
+    '2017-01-09': true,
+    '2017-01-10': true
   }
 });
