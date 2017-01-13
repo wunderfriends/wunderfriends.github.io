@@ -14,5 +14,6 @@ window.friends.push({
     '2017-01-10': true,
     '2017-01-11': true,
     '2017-01-12': true,
+    '2017-01-13': 'Cobrei o felipe do hackerrank',
   }
 });

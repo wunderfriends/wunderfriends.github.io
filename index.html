@@ -38,6 +38,9 @@
             </span>
             <span class="popover">
               {{date.format("DD/MM/YYYY")}}
+              <div v-if="typeof friend.streak[date.format('YYYY-MM-DD')] === 'string'" style="min-width:160px">
+                {{friend.streak[date.format('YYYY-MM-DD')]}}
+              </div>
             </span>
           </div>
         </div>
