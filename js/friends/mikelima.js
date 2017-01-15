@@ -9,7 +9,7 @@ window.friends.push({
     '2017-01-11': true,
     '2017-01-12': true,
     '2017-01-13': true,
-    '2017-01-14': true,
-    '2017-01-15': true
+    '2017-01-14': [{action:"study": "I contribute to my lib with 11 commits."}],
+    '2017-01-15': [{action:""}]
   }
 });
