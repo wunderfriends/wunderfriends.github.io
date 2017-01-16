@@ -10,6 +10,7 @@ window.friends.push({
     '2017-01-12': true,
     '2017-01-13': "Li e assisti conteúdos  em inglês",
     '2017-01-14': "Conversei e escutei em inglês",
-    '2017-01-15': true
+    '2017-01-15': true,
+    '2017-01-16': true
   }
 });
