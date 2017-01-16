@@ -17,5 +17,6 @@ window.friends.push({
     '2017-01-13': 'Cobrei o felipe do hackerrank',
     '2017-01-14': 'Configurei/Testei o SonarQube para javascript',
     '2017-01-15': 'Montei a minha dieta',
+    '2017-01-16': 'Apresentei o sonar',
   }
 });
