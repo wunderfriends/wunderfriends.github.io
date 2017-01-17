@@ -9,7 +9,8 @@ window.friends.push({
     '2017-01-11': true,
     '2017-01-12': true,
     '2017-01-13': true,
-    '2017-01-14': "estudei JS e geolocation API",
-    '2017-01-15': "pratiquei angularJS e fechei o conteúdo do minicurso @ Facens dessa semana"
+    '2017-01-14': 'estudei JS e geolocation API',
+    '2017-01-15': 'pratiquei angularJS e fechei o conteúdo do minicurso @ Facens dessa semana',
+    '2017-01-16': 'compartilhei conhecimento na facens && estudei angularJS em casa'
   }
 });
