@@ -12,7 +12,7 @@ window.friends.push({
     '2017-01-14': "Conversei e escutei em inglês",
     '2017-01-15': true,
     '2017-01-16': true,
-    '2017-01-17':  true,
-    '2017-01-18':  true
+    '2017-01-17': true,
+    '2017-01-18': true
   }
 });
