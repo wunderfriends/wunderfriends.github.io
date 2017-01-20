@@ -14,6 +14,7 @@ window.friends.push({
     '2017-01-16': true,
     '2017-01-17': true,
     '2017-01-18': true,
-    '2017-01-19': true
+    '2017-01-19': "Peguei a reservista, chupa  mundo",
+    '2017-01-20': true
   }
 });
