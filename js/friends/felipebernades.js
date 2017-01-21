@@ -15,6 +15,6 @@ window.friends.push({
     '2017-01-17': 'compartilhei conhecimento na facens && estudei angularJS em casa',
     '2017-01-18': 'compartilhei conhecimento na facens && estudei angularJS em casa',
     '2017-01-19': true,
-    '2017-01-20': 'participei do integrado de planning'
+    '2017-01-21': 'participei do integrado de planning'
   }
 });
