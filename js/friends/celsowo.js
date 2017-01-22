@@ -23,5 +23,6 @@ window.friends.push({
     '2017-01-19': 'Resolvi um problema de um cliente do JMS',
     '2017-01-20': 'Fui ver o apartamento',
     '2017-01-21': 'Levei a dulce na agência estrelas',
+    '2017-01-22': 'Trabalhei na lib chocobo date picker do mike',
   }
 });
