@@ -17,6 +17,6 @@ window.friends.push({
     '2017-01-19': "Peguei a reservista, chupa  mundo",
     '2017-01-20': "Tirei título de eleitor",
     '2017-01-21': true,
-    '2017-01-21': true
+    '2017-01-22': true
   }
 });
