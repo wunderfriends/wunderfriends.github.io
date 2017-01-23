@@ -4,6 +4,6 @@ window.friends.push({
   color: '#8CC665',
   streak: {
     //'2017-01-02': 'O que eu fiz',
-    '2017-01-01': true,
+    '2017-01-23': 'Comecei o wunderfriends'
   }
 });
