@@ -26,5 +26,6 @@ window.friends.push({
     '2017-01-22': 'Trabalhei na lib chocobo date picker do mike',
     '2017-01-23': 'Dei um mini-integrado',
     '2017-01-24': 'Ajustei as imagens do site do GO',
+    '2017-01-25': 'Colocamos as placas de projeto na Tegra',
   }
 });
