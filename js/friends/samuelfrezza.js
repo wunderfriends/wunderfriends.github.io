@@ -1,7 +1,7 @@
 window.friends = window.friends || [];
 window.friends.push({
   name: 'Samuel Frezza',
-  color: '#50AE55',
+  color: '#1ebccd',
   streak: {
     '2017-01-26': 'Entrei pro wunderfriends. Fui na academia'
   }
