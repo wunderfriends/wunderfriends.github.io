@@ -35,7 +35,9 @@
         <div class="streak">
           <div v-for="week in period" class="streak-week">
             <div v-for="date in week" class="streak-item">
-              <span v-if="friend.streak[date.format('YYYY-MM-DD')]" class="normal" v-bind:style="{ 'background-color': friend.color }">
+              <span v-if="!friend.streak[today] && date.format('YYYY-MM-DD') == today" class="normal" v-bind:style="{ 'background-color': '#000'}">
+              </span>
+              <span v-else-if="friend.streak[date.format('YYYY-MM-DD')]" class="normal" v-bind:style="{ 'background-color': friend.color }">
               </span>
               <span v-else class="normal">
               </span>

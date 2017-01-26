@@ -3,6 +3,7 @@ var end =  moment("20171231", "YYYYMMDD");
 
 var period = [];
 var week = [];
+var today = moment().format("YYYY-MM-DD");
 for (var i = moment(start); i.isSameOrBefore(end); i.add(1, 'days')) {
   if (week.length == 7) {
     period.push(week);
@@ -20,6 +21,7 @@ var app = new Vue({
     message: 'Hello Vue!',
     period: period,
     friends: window.friends,
-    linkGithub: 'https://github.com/'
+    linkGithub: 'https://github.com/',
+    today: today
   }
 });
