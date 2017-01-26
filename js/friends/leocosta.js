@@ -4,5 +4,6 @@ window.friends.push({
   color: '#D27FFC',
   streak: {
     // '2017-01-02': 'O que eu fiz',
+    '2017-01-26': 'Ir ao endócrino; Participar do Webinário de Spring Multi-Tenancy',
   }
 });
