@@ -21,6 +21,7 @@ window.friends.push({
     '2017-01-22': true,
     '2017-01-23': true,
     '2017-01-24': true,
-    '2017-01-25': true
+    '2017-01-25': true,
+    '2017-01-26': "Tentei fazer uma melhoria na lib Chocobo-date-range-picker"
   }
 });
