@@ -5,4 +5,4 @@ window.friends.push({
   streak: {
     '2017-01-26': 'Entrei pro wunderfriends. Fui na academia'
   }
-}
+});
