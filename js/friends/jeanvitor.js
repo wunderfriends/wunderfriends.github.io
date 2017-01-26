@@ -3,6 +3,6 @@ window.friends.push({
   name: 'Jean Vitor',
   color: '#79909B',
   streak: {
-    // '2017-01-02': 'O que eu fiz',
+     '2017-01-26': 'Olhei a minha lista, participei da iniciação wunderfriends',
   }
 });
