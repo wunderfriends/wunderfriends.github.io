@@ -85,3 +85,8 @@ body {
 .streak-item:hover .popover {
   display:block;
 }
+
+.linkGit{
+  color: inherit;
+  text-decoration: none;
+}

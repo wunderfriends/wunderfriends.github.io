@@ -30,7 +30,7 @@
     <div class="friends">
       <div v-for="friend in friends" class="friend">
         <h2>
-          {{friend.name}}
+          <a class="linkGit" v-bind:href="linkGithub + friend.userGit" target="_blank"> {{friend.name}}</a>
         </h2>
         <div class="streak">
           <div v-for="week in period" class="streak-week">

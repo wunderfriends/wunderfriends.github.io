@@ -2,6 +2,7 @@ window.friends = window.friends || [];
 window.friends.push({
   name: 'Celso Wo',
   color: '#E91E23',
+  userGit: 'celso-wo',
   streak: {
     '2017-01-02': true,
     '2017-01-03': true,

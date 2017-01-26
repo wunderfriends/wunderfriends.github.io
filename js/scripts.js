@@ -19,6 +19,7 @@ var app = new Vue({
   data: {
     message: 'Hello Vue!',
     period: period,
-    friends: window.friends
+    friends: window.friends,
+    linkGithub: 'https://github.com/'
   }
 });
