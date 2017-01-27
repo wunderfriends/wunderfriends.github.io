@@ -26,10 +26,7 @@ body {
 
 .friends {
   width: 80%;
-  margin: 0 auto;*/
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  margin: 0 auto;
 }
 
 .friend {
@@ -64,6 +61,13 @@ body {
   width:10px;
   height:10px;
   background-color: #EEE;
+}
+
+.today {
+  background-color: #CCC;
+  border: 1px solid #BBB;
+  width: 8px;
+  height: 8px;
 }
 
 .marked {

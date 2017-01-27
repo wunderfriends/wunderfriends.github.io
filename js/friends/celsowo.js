@@ -28,5 +28,6 @@ window.friends.push({
     '2017-01-23': 'Dei um mini-integrado',
     '2017-01-24': 'Ajustei as imagens do site do GO',
     '2017-01-25': 'Colocamos as placas de projeto na Tegra',
+    '2017-01-26': 'Revisei as alterações do Jean no wunderfriends',
   }
 });
