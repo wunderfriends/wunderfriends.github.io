@@ -5,5 +5,6 @@ window.friends.push({
   userGit: 'samfrezza',
   streak: {
     '2017-01-26': 'Entrei pro wunderfriends. Fui na academia'
+    '2017-01-27': 'Academia e Integrado'
   }
 });
