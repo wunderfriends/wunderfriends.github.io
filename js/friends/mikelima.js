@@ -19,8 +19,7 @@ window.friends.push({
     '2017-01-21': [{action:{ study: "I put unity test in my new lib..", learnings: ""}}],
     '2017-01-22': [{action:{ study: "", learnings: ""}}],
     '2017-01-23': [{action:{ study: "", learnings: ""}}],
-    '2017-01-23': 'hj eu corrig 2 issue na lib de calendario, estudei inglês por 30 minutos'
-    '2017-01-24': true,
+    '2017-01-24': 'hj eu corrig 2 issue na lib de calendario, estudei inglês por 30 minutos',
     '2017-01-25': true,
     '2017-01-26': true,
   }
