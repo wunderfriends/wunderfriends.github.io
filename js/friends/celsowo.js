@@ -30,5 +30,6 @@ window.friends.push({
     '2017-01-25': 'Colocamos as placas de projeto na Tegra',
     '2017-01-26': 'Revisei as alterações do Jean no wunderfriends',
     '2017-01-27': 'Adicionei o glowroot e removi o Rabbitmq do GO',
+    '2017-01-28': 'Fui na academia',
   }
 });
