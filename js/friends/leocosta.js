@@ -8,5 +8,6 @@ window.friends.push({
     '2017-01-26': 'Ir ao endócrino; Participar do Webinário de Spring Multi-Tenancy',
     '2017-01-27': 'Fiz vários exames; Mudei de convênio; Tive uma boa idéia de sftw',
     '2017-01-28': 'Levei o Arthur no campo e no parque;',
+    '2017-01-29': 'Andei de bike :)',
   }
 });
