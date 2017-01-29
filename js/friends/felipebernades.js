@@ -20,7 +20,7 @@ window.friends.push({
     '2017-01-23': 'revisei minhas tasks da semana e fiz um exercício no hackerhank',
     '2017-01-24': 'estudei protractor e resolvi duas to-do pessoais',
     '2017-01-25': 'took care of my health',
-    '2017-01-26': 'published on medium && started sorocaba-awesome-list project'
+    '2017-01-26': 'published on medium && started sorocaba-awesome-list project',
     '2017-01-28': true
   }
 });
