@@ -7,6 +7,7 @@ window.friends.push({
     '2017-01-26': 'Entrei pro wunderfriends. Fui na academia',
     '2017-01-27': 'Academia e Integrado',
     '2017-01-28': 'Curso de MongoDB',
-    '2017-01-29': true
+    '2017-01-29': true,
+    '2017-01-30': true
   }
 });
