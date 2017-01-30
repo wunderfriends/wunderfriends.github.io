@@ -22,5 +22,8 @@ window.friends.push({
     '2017-01-24': 'hj eu corrig 2 issue na lib de calendario, estudei inglês por 30 minutos',
     '2017-01-25': true,
     '2017-01-26': true,
+    '2017-01-27': true,
+    '2017-01-28': true,
+    '2017-01-29': true,
   }
 });
