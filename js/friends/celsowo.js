@@ -32,5 +32,6 @@ window.friends.push({
     '2017-01-27': 'Adicionei o glowroot e removi o Rabbitmq do GO',
     '2017-01-28': 'Fui na academia',
     '2017-01-29': 'Montei a estrutura do wundercast',
+    '2017-01-30': 'Cobrei o gabriel do violão',
   }
 });
