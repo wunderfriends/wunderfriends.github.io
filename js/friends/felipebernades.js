@@ -21,6 +21,8 @@ window.friends.push({
     '2017-01-24': 'estudei protractor e resolvi duas to-do pessoais',
     '2017-01-25': 'took care of my health',
     '2017-01-26': 'published on medium && started sorocaba-awesome-list project',
-    '2017-01-28': true
+    '2017-01-28': true,
+    '2017-01-29': 'revisei meus to-dos da semana e todas as minhas anotaçes',
+    '2017-01-30': 'cuidei da minha saúde, hackerhank && comecei a talk de gulp'
   }
 });
