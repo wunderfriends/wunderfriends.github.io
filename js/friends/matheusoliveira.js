@@ -1,6 +1,6 @@
 window.friends = window.friends || [];
 window.friends.push({
-  name: 'Emerson Oliveira',
+  name: 'Mateus Oliveira',
   color: '#BC4747',
   userGit: 'Mateus-Oli',
   streak: {
