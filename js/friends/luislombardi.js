@@ -11,6 +11,7 @@ window.friends.push({
     '2017-01-26': 'Agendei a vistoria do Youse; Convidei o Leo para o projeto; Estudei corona',
     '2017-01-27': 'Cobrei o despachante',
     '2017-01-28': 'Visitei os sogros; banho no cachorro; cortei o cabelo (ou o que sobrou dele).',
-    '2017-01-30': 'Cobrei o despachante; finalizei uma task importante'
+    '2017-01-30': 'Cobrei o despachante; finalizei uma task importante',
+    '2017-01-31': 'Levei a Ravena no retorno; Comprei os remédios da Ravena; Comprei DVD virgem'
   }
 });
