@@ -4,6 +4,6 @@ window.friends.push({
   color: '#AB3EA5',
   userGit: 'Todev3',
   streak: {
-    '2017-01-02': 'Entrei pro Wunderfriends',
+    '2017-01-31': 'Entrei pro Wunderfriends',
   }
 });
