@@ -33,5 +33,6 @@ window.friends.push({
     '2017-01-28': 'Fui na academia',
     '2017-01-29': 'Montei a estrutura do wundercast',
     '2017-01-30': 'Cobrei o gabriel do violão',
+    '2017-01-31': 'Criado os arquivos do emerson e matheus',
   }
 });
