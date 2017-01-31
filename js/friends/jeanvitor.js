@@ -6,6 +6,7 @@ window.friends.push({
   streak: {
      '2017-01-26': 'Olhei a minha lista, participei da iniciação wunderfriends',
      '2017-01-28': 'Estudei reduce'
-     '2017-01-30': 'Estudei o lib exceljs, e ES6'
+     '2017-01-30': 'Estudei o lib exceljs, e ES6',
+      '2017-01-30': 'Instalei o wundercast-web',
   }
 });
