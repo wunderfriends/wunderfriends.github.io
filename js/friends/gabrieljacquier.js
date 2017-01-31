@@ -24,6 +24,8 @@ window.friends.push({
     '2017-01-25': true,
     '2017-01-26': "Tentei fazer uma melhoria na lib Chocobo-date-range-picker",
     '2017-01-27': "Comecei a ler o livro Genêse, Fiz a reunião com o Wellington sobre o projeto do podcast",
-    '2017-01-28': "Estudei e cantei em Inglês"
+    '2017-01-28': "Estudei e cantei em Inglês",
+    '2017-01-29': true,
+    '2017-01-30': "Ajudei o time do wundercast a configurar o docker"
   }
 });
