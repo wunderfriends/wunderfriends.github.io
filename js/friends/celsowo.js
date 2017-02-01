@@ -34,5 +34,6 @@ window.friends.push({
     '2017-01-29': 'Montei a estrutura do wundercast',
     '2017-01-30': 'Cobrei o gabriel do violão',
     '2017-01-31': 'Criado os arquivos do emerson e matheus',
+    '2017-02-01': 'Aprovei o pullrequest do Felipe',
   }
 });
