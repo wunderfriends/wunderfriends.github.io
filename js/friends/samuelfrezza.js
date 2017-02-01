@@ -9,6 +9,7 @@ window.friends.push({
     '2017-01-28': 'curso de mongodb',
     '2017-01-29': true,
     '2017-01-30': 'academia',
-    '2017-01-31': 'tirei o visto americano'
+    '2017-01-31': 'tirei o visto americano',
+    '2017-02-01': 'mini integrado'
   }
 });
