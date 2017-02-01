@@ -1,39 +1,55 @@
-* {
+*,
+*:after,
+*:before {
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
 }
 
 body {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
   color: #333;
 }
 
-.logo {
-  width: 100%;
-  margin-top: 20px;
-  margin-bottom: 80px;
+header {
+  padding: 5vh 2.5vw;
 }
 
-.logo h1 {
-  font-size: 22px;
-  margin-bottom: 10px;
+header img {
+  width: 90%;
+  max-width: 300px;
 }
 
-.logo img {
-  width: 300px;
+header a {
+  display: block;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .friends {
-  width: 80%;
-  margin: 0 auto;
+  padding: 0 5vw;
+}
+
+@media (min-width: 480px) {
+  .friends {
+    display: flex;
+    flex-flow: row wrap;
+  }
 }
 
 .friend {
-  padding: 8px;
+  padding: .5rem 0;
   border-bottom: 1px solid lightgray;
-  width: 320px;
-  float: left;
+  width: 100%;
+  max-width: 320px;
   margin: 0 auto;
 }
 
@@ -42,12 +58,8 @@ body {
   margin-bottom: 8px;
 }
 
-.streak {
-
-}
-
 .streak-week {
-  display:inline-block;
+  display: inline-block;
   margin-right: 2px;
 }
 
@@ -56,32 +68,29 @@ body {
   margin-bottom: 2px;
 }
 
+.streak-item span {
+  display: block;
+  width: 10px;
+  height: 10px;
+}
+
 .normal {
-  display:block;
-  width:10px;
-  height:10px;
   background-color: #EEE;
 }
 
 .today {
   background-color: #CCC;
   border: 1px solid #BBB;
-  width: 8px;
-  height: 8px;
-}
-
-.marked {
-  display:block;
-  width:10px;
-  height:10px;
 }
 
 .streak-item .popover {
   position: absolute;
+  width: auto;
+  height: auto;
   top: 10px;
   left: 5px;
   padding: 4px 6px;
-  border-radius: 4px;
+  border-radius: 3px;
   font-size: 12px;
   background-color: rgba(0,0,0,0.7);
   z-index: 100;
@@ -96,4 +105,16 @@ body {
 .linkGit{
   color: inherit;
   text-decoration: none;
+}
+
+footer {
+  font-family: 'Permanent Marker', cursive;
+  padding: .5rem 2rem;
+  background: #f3f3f3;
+}
+
+@media (min-width: 480px) {
+  footer {
+    text-align: right;
+  }
 }
