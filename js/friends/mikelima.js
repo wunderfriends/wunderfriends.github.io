@@ -26,5 +26,6 @@ window.friends.push({
     '2017-01-28': true,
     '2017-01-29': true,
     '2017-01-30': 'hj eu estudei ingles por 40 minutos',
+    '2017-01-31': true
   }
 });
