@@ -28,6 +28,8 @@ window.friends.push({
     '2017-01-29': true,
     '2017-01-30': "Ajudei o time do wundercast a configurar o docker",
     '2017-01-31': true,
-    '2017-01-01': true
+    '2017-01-01': true,
+    '2017-01-02': "Configuramos o ambiente do GO em produção",
+    '2017-01-03': true
   }
 });
