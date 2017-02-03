@@ -13,6 +13,7 @@ window.friends.push({
     '2017-01-28': 'Visitei os sogros; banho no cachorro; cortei o cabelo (ou o que sobrou dele).',
     '2017-01-30': 'Cobrei o despachante; finalizei uma task importante',
     '2017-01-31': 'Levei a Ravena no retorno; Comprei os remédios da Ravena; Comprei DVD virgem',
-    '2017-02-01': 'Levei o carro na vistoria; finalizei a formatacao do Notebook'
+    '2017-02-01': 'Levei o carro na vistoria; Finalizei a formatacao do Notebook',
+    '2017-02-02': 'Estudei Corona; Iniciamos uma nova sprint'
   }
 });
