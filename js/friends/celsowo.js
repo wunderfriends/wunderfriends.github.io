@@ -36,5 +36,6 @@ window.friends.push({
     '2017-01-31': 'Criado os arquivos do emerson e matheus',
     '2017-02-01': 'Aprovei o pullrequest do Felipe',
     '2017-02-02': 'Testei a VPN do Novaera',
+    '2017-02-03': 'Revi os vídeos de zurique',
   }
 });
