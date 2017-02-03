@@ -6,5 +6,6 @@ window.friends.push({
   streak: {
     '2017-01-31': 'Entrei pro Wunderfriends',
     '2017-02-01': 'Visitei time da Tegra no Assai. Aprendi mais sobre o Horus',
+    '2017-02-02': 'Postei um texto sobre alocacao dinamica.',
   }
 });
