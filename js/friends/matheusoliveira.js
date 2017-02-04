@@ -5,6 +5,6 @@ window.friends.push({
   userGit: 'Mateus-Oli',
   streak: {
     '2017-01-31': 'Conheci o wunderfriends',
-    '2017-02-04'
+    '2017-02-04': ''
   }
 });
