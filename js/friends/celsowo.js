@@ -37,5 +37,6 @@ window.friends.push({
     '2017-02-01': 'Aprovei o pullrequest do Felipe',
     '2017-02-02': 'Testei a VPN do Novaera',
     '2017-02-03': 'Revi os vídeos de zurique',
+    '2017-02-04': 'Assisti Batman Killing Joke',
   }
 });
