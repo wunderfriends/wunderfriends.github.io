@@ -13,5 +13,7 @@ window.friends.push({
     '2017-01-31': 'Comemorei o aniversário do Arthurzinho',
     '2017-02-01': 'Busquei meus pais na rodoviária',
     '2017-02-02': 'Finalizei 80 % da minha spring e alcancei o burndown \o/'
+    '2017-02-03': 'Finalizei minha sprint antes do prazo \o/'
+    '2017-02-04': 'Fiz as correrias para a festa do Tutu \o/'
   }
 });
