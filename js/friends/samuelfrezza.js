@@ -12,6 +12,8 @@ window.friends.push({
     '2017-01-31': 'tirei o visto americano',
     '2017-02-01': 'mini integrado',
     '2017-02-02': 'academia',
-    '2017-02-03': true
+    '2017-02-03': true,
+    '2017-02-04': 'curso de mongo',
+    '2017-02-05': 'visitei meus pais'
   }
 });
