@@ -9,6 +9,6 @@ window.friends.push({
     '2017-02-02': 'Postei um texto sobre alocacao dinamica.',
     '2017-02-03': 'Discussao sobre JS e Java.',
     '2017-02-04': 'Sai para fazer nada.',
-    '2017-02-05': "Estudei Scrum.',
+    '2017-02-05': 'Estudei Scrum.',
   }
 });
