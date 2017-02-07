@@ -39,6 +39,6 @@ window.friends.push({
     '2017-02-03': 'Revi os vídeos de zurique',
     '2017-02-04': 'Assisti Batman Killing Joke',
     '2017-02-05': 'Criei as issues do wundercast',
-    '2017-02-06': '',
+    '2017-02-06': 'Review da primeira fase do GO',
   }
 });
