@@ -15,5 +15,8 @@ window.friends.push({
     '2017-02-02': 'Finalizei 80 % da minha spring e alcancei o burndown \o/',
     '2017-02-03': 'Finalizei minha sprint antes do prazo \o/',
     '2017-02-04': 'Fiz as correrias para a festa do Tutu \o/',
+    '2017-02-05': 'Almoçei em São roque ;)',
+    '2017-02-06': 'Consegui finalizar meus serviços Rest',
+    '2017-02-07': 'Cheguei cedo no trabalho \o/',
   }
 });
