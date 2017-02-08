@@ -26,6 +26,7 @@ window.friends.push({
     '2017-01-30': 'cuidei da minha saúde, hackerhank && comecei a talk de gulp',
     '2017-01-31': true,
     '2017-02-01': 'matei alguns to-dos de saúde e atualizei outros',
-    '2017-02-02': 'studied tests'
+    '2017-02-02': 'studied tests',
+    '2017-02-07': true
   }
 });
