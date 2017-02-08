@@ -15,6 +15,7 @@ window.friends.push({
     '2017-01-31': 'Levei a Ravena no retorno; Comprei os remédios da Ravena; Comprei DVD virgem',
     '2017-02-01': 'Levei o carro na vistoria; Finalizei a formatacao do Notebook',
     '2017-02-02': 'Estudei Corona; Iniciamos uma nova sprint',
-    '2017-02-07': 'Correção dos bugs de fechamento do pedido; Cobrei o despachante, Voltei a commitar'
+    '2017-02-07': 'Correção dos bugs de fechamento do pedido; Cobrei o despachante; Voltei a commitar',
+    '2017-02-08': 'Cobrando mais o time; Ajudei nas tarefas de casa; escrevi mais um pouco no medium'
   }
 });
