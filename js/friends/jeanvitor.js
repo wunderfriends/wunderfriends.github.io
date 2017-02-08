@@ -11,5 +11,6 @@ window.friends.push({
     '2017-02-01': "Comecei a escrever um artigo no medium e rodei o projeto randsome_meetup",
     '2017-02-03': "Escrevi um artigo no medium",
     '2017-02-04': "Estudei JS",
+    '2017-02-07': "Arrumei bugs da lib do mike",
   }
 });
