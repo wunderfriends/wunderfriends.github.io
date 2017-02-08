@@ -34,6 +34,7 @@ window.friends.push({
     '2017-02-04': "Fui a primeira vez  em um jogo do Corinthians",
     '2017-02-05': "Iniciei um curso online de inglês utilizando Anki para estudo",
     '2017-02-06': "Organizei meu wunderlist, voltei a ler o livro sobre ontologia",
-    '2017-02-07': "Iniciei a faculdade"
+    '2017-02-07': "Iniciei a faculdade",
+    '2017-02-08': "Aprendi mais sobre ontologia"
   }
 });
