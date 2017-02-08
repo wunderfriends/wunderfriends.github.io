@@ -11,5 +11,9 @@ window.friends.push({
     '2017-02-04': 'Sai para fazer nada.',
     '2017-02-05': 'Estudei Scrum.',
     '2017-02-06': 'Li um pouco sobre Lambdaj.',
+    '2017-02-07': 'Apresentei Integrado sobre o estagio.',
+    '2017-02-08': '',
+    '2017-02-09': '',
+    '2017-02-10': '',
   }
 });
