@@ -18,5 +18,7 @@ window.friends.push({
     '2017-02-05': 'Almoçei em São roque ;)',
     '2017-02-06': 'Consegui finalizar meus serviços Rest',
     '2017-02-07': 'Cheguei cedo no trabalho \o/',
+    '2017-02-08': 'Revi minhas metas trimestrais',
+    '2017-02-09': 'Consegui implementar restfull com spring 4 \o/',
   }
 });
