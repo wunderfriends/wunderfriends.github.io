@@ -6,6 +6,7 @@ window.friends.push({
   streak: {
     '2017-01-31': 'Conheci o wunderfriends',
     '2017-02-04': true,
-    '2017-02-08': true
+    '2017-02-08': true,
+    '2017-02-09': true
   }
 });
