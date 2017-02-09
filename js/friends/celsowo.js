@@ -42,5 +42,6 @@ window.friends.push({
     '2017-02-06': 'Review da primeira fase do GO',
     '2017-02-07': 'Dei um mini-integrado',
     '2017-02-08': 'Testes de integração',
+    '2017-02-09': 'Instalação da pedra da cozinha no apartamento novo',
   }
 });
