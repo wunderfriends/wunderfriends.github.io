@@ -27,6 +27,10 @@ window.friends.push({
     '2017-01-31': true,
     '2017-02-01': 'matei alguns to-dos de saúde e atualizei outros',
     '2017-02-02': 'studied tests',
-    '2017-02-07': true
+    '2017-02-04': 'studied tests',
+    '2017-02-05': 'studied philosophy',
+    '2017-02-07': 'wrote a poem',
+    '2017-02-09': 'recepcionei os calouros de ADS na Fatec!',
+    '2017-02-10': true,
   }
 });
