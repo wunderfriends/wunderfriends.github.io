@@ -13,7 +13,7 @@ window.friends.push({
     '2017-02-06': 'Li um pouco sobre Lambdaj.',
     '2017-02-07': 'Apresentei Integrado sobre o estagio.',
     '2017-02-08': 'Estudei ingles. Dei mini integradr sobre arvore geradora minima.',
-    '2017-02-09': '',
+    '2017-02-09': 'Pesquisei preco de notebook. Tive uma debate construtivo sobre arvores.',
     '2017-02-10': '',
   }
 });
