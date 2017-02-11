@@ -43,5 +43,6 @@ window.friends.push({
     '2017-02-07': 'Dei um mini-integrado',
     '2017-02-08': 'Testes de integração',
     '2017-02-09': 'Instalação da pedra da cozinha no apartamento novo',
+    '2017-02-10': 'Cortei o cabelo',
   }
 });
