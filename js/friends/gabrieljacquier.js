@@ -36,6 +36,7 @@ window.friends.push({
     '2017-02-06': "Organizei meu wunderlist, voltei a ler o livro sobre ontologia",
     '2017-02-07': "Iniciei a faculdade",
     '2017-02-08': "Aprendi mais sobre ontologia",
-    '2017-02-09': "Comecei a ler o livro de redes do KUROSE"
+    '2017-02-09': "Comecei a ler o livro de redes do KUROSE",
+    '2017-02-10': "Dei uma mini palestra no IFSP sobre carreira para os curso de ADS"
   }
 });
