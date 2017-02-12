@@ -19,6 +19,8 @@ window.friends.push({
     '2017-02-07': 'academia',
     '2017-02-08': 'academia',
     '2017-02-09': 'vendi minha moto',
-    '2017-02-10': true
+    '2017-02-10': true,
+    '2017-02-11': true,
+    '2017-02-12': true
   }
 });
