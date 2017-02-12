@@ -45,5 +45,6 @@ window.friends.push({
     '2017-02-09': 'Instalação da pedra da cozinha no apartamento novo',
     '2017-02-10': 'Cortei o cabelo',
     '2017-02-11': 'Academia',
+    '2017-02-12': 'Embarcando para Manaus',
   }
 });
