@@ -15,5 +15,6 @@ window.friends.push({
     '2017-02-08': "Voltei a trabalhar na minha iniciação cientifica",
     '2017-02-10': "Fui no bretao com o pessoal novo da fatec",
     '2017-02-11': "Preparei uma apresentação sobre Request e Response",
+    '2017-02-13': "Fiz a inscrição para fazer natação",
   }
 });
