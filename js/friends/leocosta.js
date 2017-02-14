@@ -20,5 +20,9 @@ window.friends.push({
     '2017-02-07': 'Cheguei cedo no trabalho \o/',
     '2017-02-08': 'Revi minhas metas trimestrais',
     '2017-02-09': 'Consegui implementar restfull com spring 4 \o/',
+    '2017-02-10': 'Consegui finalizar meus serviços eme rest',
+    '2017-02-11': 'Fizemos uma festa surpresa para o meu pai',
+    '2017-02-12': 'Tomei café da manhã com meus pais',
+    '2017-02-13': 'Levei o Arthur na creche, 1° dia :(',
   }
 });
