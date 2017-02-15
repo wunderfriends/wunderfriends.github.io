@@ -18,5 +18,6 @@ window.friends.push({
     '2017-02-11': 'O Chamado 3 foi menos do que eu esperava :/',
     '2017-02-12': 'Comi pela primeira vez no BK',
     '2017-02-13': 'Aprendi mais sobre o jenkis',
+    '2017-02-14': 'Fiz massa de biscuit.',
   }
 });
