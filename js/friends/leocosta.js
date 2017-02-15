@@ -24,5 +24,6 @@ window.friends.push({
     '2017-02-11': 'Fizemos uma festa surpresa para o meu pai',
     '2017-02-12': 'Tomei café da manhã com meus pais',
     '2017-02-13': 'Levei o Arthur na creche, 1° dia :(',
+    '2017-02-14': 'Levei meu pai para participar do fut :)'
   }
 });
