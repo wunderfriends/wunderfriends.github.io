@@ -47,6 +47,6 @@ window.friends.push({
     '2017-02-11': 'Academia',
     '2017-02-12': 'Embarcando para Manaus',
     '2017-02-13': 'Começamos a implatanção do GO',
-
+    '2017-02-14': 'Conseguimos fazer 3 conferências pelo GO',
   }
 });
