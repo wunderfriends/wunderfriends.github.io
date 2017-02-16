@@ -16,8 +16,13 @@ window.friends.push({
     '2017-02-09': 'Pesquisei preco de notebook. Tive uma debate construtivo sobre arvores.',
     '2017-02-10': 'Busca por precos de note continua. Planejamento de um app',
     '2017-02-11': 'O Chamado 3 foi menos do que eu esperava :/',
-    '2017-02-12': 'Comi pela primeira vez no BK',
-    '2017-02-13': 'Aprendi mais sobre o jenkis',
+    '2017-02-12': 'Comi pela primeira vez no BK.',
+    '2017-02-13': 'Aprendi mais sobre o jenkis.',
     '2017-02-14': 'Fiz massa de biscuit.',
+    '2017-02-15': 'Ajustes no App Doe Educandario.',
+    '2017-02-16': '',
+    '2017-02-17': '',
+    '2017-02-18': '',
+    '2017-02-19': '',
   }
 });
