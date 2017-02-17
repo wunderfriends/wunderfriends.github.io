@@ -43,6 +43,7 @@ window.friends.push({
     '2017-02-13': true,
     '2017-02-14': true,
     '2017-02-15': true,
-    '2017-02-16': true
+    '2017-02-16': true,
+    '2017-02-17': "Cheguei na pagina 50 do livro do Kurose redes de computadores e a Internet"
   }
 });
