@@ -21,7 +21,7 @@ window.friends.push({
     '2017-02-14': 'Fiz massa de biscuit.',
     '2017-02-15': 'Ajustes no App Doe Educandario.',
     '2017-02-16': 'Testei o cadastro de QRcode do App Doe Educandario, teve numero de erros menor que esperado o/.',
-    '2017-02-17': '',
+    '2017-02-17': 'Busca finalmente acabou, achei o note que eu queria :3.',
     '2017-02-18': '',
     '2017-02-19': '',
   }
