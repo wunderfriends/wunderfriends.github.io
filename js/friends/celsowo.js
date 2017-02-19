@@ -49,5 +49,6 @@ window.friends.push({
     '2017-02-13': 'Começamos a implatanção do GO',
     '2017-02-14': 'Conseguimos fazer 3 conferências pelo GO',
     '2017-02-15': 'Conseguimos fazer uma conferência sem o uso da guia cega como apoio',
+    '2017-02-18': 'Hoje bateu o cansaço',
   }
 });
