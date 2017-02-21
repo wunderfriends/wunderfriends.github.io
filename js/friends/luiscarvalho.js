@@ -9,6 +9,7 @@ window.friends.push({
     '2017-02-07': "Estudei map, filter, forEach e Promises",
     '2017-02-08': "Promises e reduce no Alura",
     '2017-02-13': "Estudei node no BeMean",
-    '2017-02-14': "Estudei node no alura, curso APIs node"
+    '2017-02-14': "Estudei node no alura, curso APIs node",
+    '2017-02-20': "ainda to nesse curso kkk"
   }
 });
