@@ -24,5 +24,6 @@ window.friends.push({
     '2017-02-17': 'Busca finalmente acabou, achei o note que eu queria :3.',
     '2017-02-18': 'Encontrei amigos da facul.',
     '2017-02-19': 'Dia de fazer nada xD.',
+    '2017-02-20': 'Boleto pago, agora soh esperar note novo. Teste com bot bem sucedido.',
   }
 });
