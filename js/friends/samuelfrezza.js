@@ -30,6 +30,7 @@ window.friends.push({
     '2017-02-18': 'fui em um show de stand-up',
     '2017-02-19': 'fiz lasanha',
     '2017-02-20': 'academia',
-    '2017-02-21': 'academia'
+    '2017-02-21': 'academia',
+    '2017-02-22': true
   }
 });
