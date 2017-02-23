@@ -51,5 +51,6 @@ window.friends.push({
     '2017-02-15': 'Conseguimos fazer uma conferência sem o uso da guia cega como apoio',
     '2017-02-18': 'Hoje bateu o cansaço em Manaus',
     '2017-02-19': 'Inscrevi no Hackathon da Globo o/',
+    '2017-02-23': 'Voltando para Sorocaba',
   }
 });
