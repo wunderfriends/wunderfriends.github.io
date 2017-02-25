@@ -53,5 +53,6 @@ window.friends.push({
     '2017-02-19': 'Inscrevi no Hackathon da Globo o/',
     '2017-02-23': 'Voltando para Sorocaba',
     '2017-02-24': 'Levei a dulce na escola nova',
+    '2017-02-25': 'Academia',
   }
 });
