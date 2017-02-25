@@ -28,6 +28,6 @@ window.friends.push({
     '2017-02-21': 'Dia sem algo relevante.',
     '2017-02-22': true,
     '2017-02-23': 'Configurei meu note novo.',
-    '2017-02-24': '',
+    '2017-02-24': 'Dei uma relembrada sobre UML.',
   }
 });
