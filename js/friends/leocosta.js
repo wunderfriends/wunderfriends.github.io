@@ -27,6 +27,14 @@ window.friends.push({
     '2017-02-14': 'Levei meu pai para participar do fut :)',
     '2017-02-15': 'Finalizei alguns testes para o horário de verão :)',
     '2017-02-16': 'Levei meu filho e minha esposa para passear :)',
-    '2017-02-17': 'Consegui avançar no meu bi :)'
+    '2017-02-17': 'Consegui fazer minhas pendências do bi',
+    '2017-02-18': 'Consegui fazer minhas pendências do rest',
+    '2017-02-19': 'Separei as request da web com as do serviços com o spring',
+    '2017-02-20': 'Coloquei o exame holter que o médico pediu ;(',
+    '2017-02-21': 'Retirei o exame holter ;(',
+    '2017-02-22': 'Joguei bola com os meus amigos',
+    '2017-02-23': 'Jantei com meus pais',
+    '2017-02-24': 'Levei a Carol e o tutu para passear',
+    '2017-02-25': 'Levei a Carol para fazer exames'
   }
 });
