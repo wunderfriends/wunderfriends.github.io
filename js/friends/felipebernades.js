@@ -32,5 +32,7 @@ window.friends.push({
     '2017-02-07': 'wrote a poem',
     '2017-02-09': 'recepcionei os calouros de ADS na Fatec!',
     '2017-02-10': true,
+    '2017-02-25': true,
+    '2017-02-26': true,
   }
 });
