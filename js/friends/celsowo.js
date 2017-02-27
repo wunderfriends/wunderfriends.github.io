@@ -55,5 +55,6 @@ window.friends.push({
     '2017-02-24': 'Levei a dulce na escola nova',
     '2017-02-25': 'Academia',
     '2017-02-26': 'Café da manhã em família',
+    '2017-02-27': 'Jogando coisas velhas fora',
   }
 });
