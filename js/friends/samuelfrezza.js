@@ -33,6 +33,8 @@ window.friends.push({
     '2017-02-21': 'academia',
     '2017-02-22': true,
     '2017-02-23': true,
-    '2017-02-24': true
+    '2017-02-24': true,
+    '2017-02-25': 'tomei café de prensa',
+    '2017-02-26': 'fui na exposição do silvio santos'
   }
 });
