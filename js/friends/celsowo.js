@@ -56,5 +56,6 @@ window.friends.push({
     '2017-02-25': 'Academia',
     '2017-02-26': 'Café da manhã em família',
     '2017-02-27': 'Jogando coisas velhas fora',
+    '2017-02-28': 'Dei suporte para alguns clientes',
   }
 });
