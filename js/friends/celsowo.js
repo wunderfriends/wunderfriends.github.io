@@ -57,5 +57,6 @@ window.friends.push({
     '2017-02-26': 'Café da manhã em família',
     '2017-02-27': 'Jogando coisas velhas fora',
     '2017-02-28': 'Dei suporte para alguns clientes',
+    '2017-03-01': 'Tivemos conversa sobre desenvolvimento híbrido',
   }
 });
