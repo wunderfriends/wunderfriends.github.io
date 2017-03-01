@@ -49,6 +49,7 @@ window.friends.push({
     '2017-02-23': "Estou na pagina 60 do Kurose",
     '2017-02-25': true,
     '2017-02-26': true,
-    '2017-02-28': true    
+    '2017-02-28': true,
+    '2017-03-01': "Submeti para fazer uma palestra no Python Sorocaba"
   }
 });
