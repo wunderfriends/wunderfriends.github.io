@@ -20,6 +20,7 @@ window.friends.push({
     '2017-02-20': 'Voltei a commitar; Cancelei Ituran; Cancelei Amil Dental; Pesquisei ferramentas de prototipacao',
     '2017-02-24': 'Removi a Ituran do Carro; Peguei uns remédios para a Alice/Ravena; Botei o Som e o notebook para vender;',
     '2017-02-25': 'Levei a Ravena para tomar banho; finalmente aprendi a fazer salmão no forno;',
-    '2017-02-26': 'Visitei meus sogros'
+    '2017-02-26': 'Visitei meus sogros',
+    '2017-02-27': 'Refiz os anúncios da OLX; Escrevi mais um pouco no Medium (vou publicar essa semana)'
   }
 });
