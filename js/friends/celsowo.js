@@ -58,5 +58,6 @@ window.friends.push({
     '2017-02-27': 'Jogando coisas velhas fora',
     '2017-02-28': 'Dei suporte para alguns clientes',
     '2017-03-01': 'Tivemos conversa sobre desenvolvimento híbrido',
+    '2017-03-02': 'Adicionei alguns itens no radar da tegra',
   }
 });
