@@ -39,6 +39,7 @@ window.friends.push({
     '2017-02-27': 'terminei o curso de mongo',
     '2017-02-28': true,
     '2017-03-01': true,
-    '2017-03-02': true
+    '2017-03-02': true,
+    '2017-03-03': true
   }
 });
