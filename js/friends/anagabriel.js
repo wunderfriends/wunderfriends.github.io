@@ -11,5 +11,6 @@ window.friends.push({
     '2017-03-01': true,
     '2017-03-02': 'Li um capítulo do livro O poder do hábito',
     '2017-03-03': true,
+    '2017-03-04': "Organizei a casa; Revisei a lista; Fiz banana bread",
   }
 });
