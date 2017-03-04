@@ -10,5 +10,6 @@ window.friends.push({
     '2017-02-28': 'Vi alguns vídeos sobre programas de intercâmbio para os EUA; Estudei processos; Trabalhei',
     '2017-03-01': true,
     '2017-03-02': 'Li um capítulo do livro O poder do hábito',
+    '2017-03-03': true,
   }
 });
