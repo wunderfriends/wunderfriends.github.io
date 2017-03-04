@@ -36,5 +36,6 @@ window.friends.push({
     '2017-03-01': true,
     '2017-03-02': true,
     '2017-03-03': true,
+    '2017-03-04': 'Cortei o cabelo. Escutei uma parte de um audiobook',
   }
 });
