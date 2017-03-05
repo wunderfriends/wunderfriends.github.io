@@ -38,5 +38,6 @@ window.friends.push({
     '2017-02-28': true,
     '2017-03-01': true,
     '2017-03-04': "dei uma talk no python-sorocaba com o gabriel",
+    '2017-03-05': "organizei meu github",
   }
 });
