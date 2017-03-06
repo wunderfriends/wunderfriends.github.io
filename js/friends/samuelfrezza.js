@@ -41,6 +41,8 @@ window.friends.push({
     '2017-03-01': true,
     '2017-03-02': true,
     '2017-03-03': true,
-    '2017-03-04': 'curso de spark'
+    '2017-03-04': 'curso de spark',
+    '2017-03-05': true,
+    '2017-03-06': true
   }
 });
