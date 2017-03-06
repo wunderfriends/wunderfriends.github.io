@@ -13,5 +13,6 @@ window.friends.push({
     '2017-03-03': true,
     '2017-03-04': "Organizei a casa; Revisei a lista; Fiz banana bread",
     '2017-03-05': "Tomei café na Sabina; Fiz a compra da semana; Fiz pão integral",
+    '2017-03-06': "Academia",
   }
 });
