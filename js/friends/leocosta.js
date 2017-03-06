@@ -41,5 +41,9 @@ window.friends.push({
     '2017-02-28': 'Trabalhei ;(',
     '2017-03-01': 'Assisti o jogo do timão com meus pais',
     '2017-03-02': 'Levei o tutu na creche'
+    '2017-03-03': 'Fui buscar o Arthur na creche'
+    '2017-03-04': 'Levei a tv para o conserto'
+    '2017-03-05': 'Almoçei com meus pais'
+    '2017-03-06': 'Levei a Carol para fazer exame'
   }
 });
