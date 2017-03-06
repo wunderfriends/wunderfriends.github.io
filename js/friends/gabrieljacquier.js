@@ -51,6 +51,8 @@ window.friends.push({
     '2017-02-26': "Comecei a ler o Livro Programador Pragmatico",
     '2017-02-28': true,
     '2017-03-01': "Submeti para fazer uma palestra no Python Sorocaba",
-    '2017-03-03': "Fui aceito para fazer a palestra sobre desenvolvimento de estagiários e júniors nas empresas"
+    '2017-03-03': "Fui aceito para fazer a palestra sobre desenvolvimento de estagiários e júniors nas empresas",
+    '2017-03-04': "Palestrei no Meetup Python Sorocaba",
+    '2017-03-05': "Comecei um exercício no Hackerrank"
   }
 });
