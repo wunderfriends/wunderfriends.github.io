@@ -54,5 +54,6 @@ window.friends.push({
     '2017-03-03': "Fui aceito para fazer a palestra sobre desenvolvimento de estagiários e júniors nas empresas",
     '2017-03-04': "Palestrei no Meetup Python Sorocaba",
     '2017-03-05': "Comecei um exercício no Hackerrank",
+    '2017-03-07': true
   }
 });
