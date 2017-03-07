@@ -63,5 +63,6 @@ window.friends.push({
     '2017-03-04': 'Comprei o material escolar da dulce',
     '2017-03-05': 'Arrumando marmitas',
     '2017-03-06': 'Academia',
+    '2017-03-07': 'Não gastei dinheiro hoje ;D',
   }
 });
