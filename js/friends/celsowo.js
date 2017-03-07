@@ -62,5 +62,6 @@ window.friends.push({
     '2017-03-03': 'Fizemos atualização do GO',
     '2017-03-04': 'Comprei o material escolar da dulce',
     '2017-03-05': 'Arrumando marmitas',
+    '2017-03-06': 'Academia',
   }
 });
