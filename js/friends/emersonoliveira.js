@@ -39,5 +39,6 @@ window.friends.push({
     '2017-03-04': 'Cortei o cabelo. Escutei uma parte de um audiobook',
     '2017-03-05': 'Meu niver o/',
     '2017-03-06': 'Fui efetivado :3',
+    '2017-03-07': 'Escutei 2/3 de um audioBook',
   }
 });
