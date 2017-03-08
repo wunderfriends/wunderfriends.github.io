@@ -40,5 +40,6 @@ window.friends.push({
     '2017-03-05': 'Meu niver o/',
     '2017-03-06': 'Fui efetivado :3',
     '2017-03-07': 'Escutei 2/3 de um audioBook',
+    '2017-03-08': true,
   }
 });
