@@ -66,5 +66,6 @@ window.friends.push({
     '2017-03-07': 'Não gastei dinheiro hoje ;D',
     '2017-03-08': 'Academia',
     '2017-03-09': 'Dei parabéns para o Léo',
+    '2017-03-10': 'Participei do Radar da Tegra',
   }
 });
