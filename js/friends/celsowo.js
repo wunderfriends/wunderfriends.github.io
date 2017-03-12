@@ -68,5 +68,6 @@ window.friends.push({
     '2017-03-09': 'Dei parabéns para o Léo',
     '2017-03-10': 'Participei do Radar da Tegra',
     '2017-03-11': 'Vomitei horrores',
+    '2017-03-12': 'Li todo o livro dieta fléxivel da caio bottura',
   }
 });
