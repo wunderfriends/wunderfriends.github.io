@@ -14,5 +14,8 @@ window.friends.push({
     '2017-03-04': "Organizei a casa; Revisei a lista; Fiz banana bread",
     '2017-03-05': "Tomei café na Sabina; Fiz a compra da semana; Fiz pão integral",
     '2017-03-06': "Academia",
+    '2017-03-10': true,
+    '2017-03-11': "Burocracias da colação de grau",
+    '2017-03-12': true,
   }
 });
