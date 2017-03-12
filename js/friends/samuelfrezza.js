@@ -48,6 +48,7 @@ window.friends.push({
     '2017-03-08': true,
     '2017-03-09': true,
     '2017-03-10': 'radar da tegra',
-    '2017-03-11': true
+    '2017-03-11': true,
+    '2017-03-12': true
   }
 });
