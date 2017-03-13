@@ -42,5 +42,9 @@ window.friends.push({
     '2017-03-07': 'Escutei 2/3 de um audioBook',
     '2017-03-08': true,
     '2017-03-09': true,
+    '2017-03-10': true,
+    '2017-03-11': true,
+    '2017-03-12': true,
+    '2017-03-13': true,
   }
 });
