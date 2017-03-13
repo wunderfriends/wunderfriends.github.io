@@ -45,5 +45,12 @@ window.friends.push({
     '2017-03-04': 'Levei a tv para o conserto',
     '2017-03-05': 'Almoçei com meus pais',
     '2017-03-06': 'Levei a Carol para fazer exame',
+    '2017-03-07': 'Joguei futebol',
+    '2017-03-08': 'Assisti o jogo do timão',
+    '2017-03-09': 'Ajudei o pessoal do man. produto',
+    '2017-03-10': 'Participei do tegra-radar',
+    '2017-03-11': 'Retirei a minha tv do conserto',
+    '2017-03-12': 'Fui a igreja ;)',
+    '2017-03-13': 'Fui ao dentista'
   }
 });
