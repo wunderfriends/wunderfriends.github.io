@@ -17,5 +17,10 @@ window.friends.push({
     '2017-03-10': true,
     '2017-03-11': "Burocracias da colação de grau",
     '2017-03-12': true,
+    '2017-03-13': true,
+    '2017-03-14': true,
+    '2017-03-15': "Estudei sobre elasticidade de preço; Fiz a compra da semana",
+    '2017-03-16': true,
   }
 });
+n
