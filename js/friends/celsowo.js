@@ -71,5 +71,6 @@ window.friends.push({
     '2017-03-12': 'Li todo o livro dieta fléxivel da caio bottura',
     '2017-03-13': 'Planning da fase 2 do GO',
     '2017-03-14': 'Academia',
+    '2017-03-15': 'Entreguei versão 0.3.0',
   }
 });
