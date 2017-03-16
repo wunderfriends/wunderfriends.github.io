@@ -41,5 +41,6 @@ window.friends.push({
     '2017-03-05': "organizei meu github",
     '2017-03-06': "estudei testes em frontend",
     '2017-03-07': "estudei testes em frontend",
+    '2017-03-16': "revisei minhas direcoes",
   }
 });
