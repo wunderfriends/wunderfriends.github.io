@@ -21,6 +21,7 @@ window.friends.push({
     '2017-03-14': true,
     '2017-03-15': "Estudei sobre elasticidade de preço; Fiz a compra da semana",
     '2017-03-16': true,
+    '2017-03-17': "Colação de grau o/",
   }
 });
 n
