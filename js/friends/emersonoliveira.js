@@ -48,5 +48,6 @@ window.friends.push({
     '2017-03-13': true,
     '2017-03-14': true,
     '2017-03-15': true,
+    '2017-03-16': 'Participei de uma entrevista. Aprendi mais sobre SQL :3.',
   }
 });
