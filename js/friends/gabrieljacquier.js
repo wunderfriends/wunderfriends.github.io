@@ -56,6 +56,7 @@ window.friends.push({
     '2017-03-05': "Comecei um exercício no Hackerrank",
     '2017-03-07': true,
     '2017-03-08': true,
-    '2017-03-16': true
+    '2017-03-16': true,
+    '2017-03-17': true
   }
 });
