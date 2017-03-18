@@ -74,5 +74,6 @@ window.friends.push({
     '2017-03-15': 'Entreguei versão 0.3.0',
     '2017-03-16': 'Liguei para cancelar o meu contrato de locação',
     '2017-03-17': 'Academia',
+    '2017-03-18': 'Academia',
   }
 });
