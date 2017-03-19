@@ -72,5 +72,6 @@ window.friends.push({
     '2017-03-15': "ESTUDEI POR 20 minutos veujs e inglês",
      '2017-03-16': "ESTUDEI POR 1:30 minutos veujs e inglês POR 20 min",
     '2017-03-13': "FUI BEBE :(",
+     '2017-03-13': "VOU INICAR AGORA MEUS ESTUDOS",
   }
 });
