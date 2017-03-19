@@ -12,6 +12,7 @@ window.friends.push({
     '2017-02-19': true,
     '2017-02-24': true,
     '2017-02-26': 'Estudei Vue JS e Nuxt',
-    '2017-03-02' : true
+    '2017-03-02' : true,
+    '2017-03-19' : true
   }
 });
