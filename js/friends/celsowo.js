@@ -75,5 +75,6 @@ window.friends.push({
     '2017-03-16': 'Liguei para cancelar o meu contrato de locação',
     '2017-03-17': 'Academia',
     '2017-03-18': 'Academia',
+    '2017-03-19': 'Comecei a minha lib Lazy: <a href="https://github.com/celso-wo/lazy">https://github.com/celso-wo/lazy</a>',
   }
 });
