@@ -71,7 +71,7 @@ window.friends.push({
      '2017-03-14': "Iniciei o cachorro dual list e estudei ingles por 20 minutos :(",
     '2017-03-15': "ESTUDEI POR 20 minutos veujs e inglês",
      '2017-03-16': "ESTUDEI POR 1:30 minutos veujs e inglês POR 20 min",
-    '2017-03-13': "FUI BEBE :(",
-     '2017-03-13': "VOU INICAR AGORA MEUS ESTUDOS",
+    '2017-03-17': "FUI BEBE :(",
+     '2017-03-18': "VOU INICAR AGORA MEUS ESTUDOS",
   }
 });
