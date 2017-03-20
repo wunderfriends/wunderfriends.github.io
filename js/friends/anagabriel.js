@@ -22,6 +22,8 @@ window.friends.push({
     '2017-03-15': "Estudei sobre elasticidade de preço; Fiz a compra da semana",
     '2017-03-16': true,
     '2017-03-17': "Colação de grau o/",
+    '2017-03-18': "Passeio com meus pais",
+    '2017-03-19': "Faxina; Compras da semana",
+    '2017-03-20': "Paguei contas",
   }
 });
-n
