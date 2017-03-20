@@ -50,5 +50,8 @@ window.friends.push({
     '2017-03-15': true,
     '2017-03-16': 'Participei de uma entrevista. Aprendi mais sobre SQL :3.',
     '2017-03-17': 'Aprendi mais um pouco de SQL.',
+    '2017-03-18': 'Visitei uma cervejaria artesanal, a Happy Brew.',
+    '2017-03-19': 'Fui no restuarante japones.',
+    '2017-03-20': 'Inscrição da palestra sobre Docker.',
   }
 });
