@@ -25,5 +25,6 @@ window.friends.push({
     '2017-03-18': "Passeio com meus pais",
     '2017-03-19': "Faxina; Compras da semana",
     '2017-03-20': "Paguei contas",
+    '2017-03-21': "Alimentação e sono melhor; Caminhada/Corrida",
   }
 });
