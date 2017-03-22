@@ -77,5 +77,6 @@ window.friends.push({
     '2017-03-18': 'Academia',
     '2017-03-19': 'Comecei a minha lib Lazy: https://github.com/celso-wo/lazy',
     '2017-03-20': 'Resolvi as pendências do apartamento',
+    '2017-03-21': 'Academia',
   }
 });
