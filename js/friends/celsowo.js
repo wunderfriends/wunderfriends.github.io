@@ -78,5 +78,5 @@ window.friends.push({
     '2017-03-19': 'Comecei a minha lib Lazy: https://github.com/celso-wo/lazy',
     '2017-03-20': 'Resolvi as pendências do apartamento',
     '2017-03-21': 'Academia',
-  }
+    '2017-03-22': 'Treino peito e costas, foi um treino médio',
 });
