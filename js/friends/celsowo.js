@@ -79,4 +79,5 @@ window.friends.push({
     '2017-03-20': 'Resolvi as pendências do apartamento',
     '2017-03-21': 'Academia',
     '2017-03-22': 'Treino peito e costas, foi um treino médio',
+  }
 });
