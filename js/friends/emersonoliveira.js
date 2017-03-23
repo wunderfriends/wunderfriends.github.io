@@ -53,5 +53,8 @@ window.friends.push({
     '2017-03-18': 'Visitei uma cervejaria artesanal, a Happy Brew.',
     '2017-03-19': 'Fui no restuarante japones.',
     '2017-03-20': 'Inscrição da palestra sobre Docker.',
+    '2017-03-21': true,
+    '2017-03-22': true,
+    '2017-03-23': true,
   }
 });
