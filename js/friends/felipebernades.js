@@ -44,5 +44,6 @@ window.friends.push({
     '2017-03-16': "revisei minhas direcoes",
     '2017-03-21': true,
     '2017-03-22': true,
+    '2017-03-23': true
   }
 });
