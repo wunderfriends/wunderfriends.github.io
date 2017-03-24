@@ -80,5 +80,6 @@ window.friends.push({
     '2017-03-21': 'Academia',
     '2017-03-22': 'Treino peito e costas, foi um treino médio',
     '2017-03-23': 'Arrumei o problema da impressora',
+    '2017-03-24': 'Mudança de apartamento',
   }
 });
