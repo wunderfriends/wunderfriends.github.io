@@ -82,5 +82,6 @@ window.friends.push({
     '2017-03-23': 'Arrumei o problema da impressora',
     '2017-03-24': 'Mudança de apartamento',
     '2017-03-25': 'Instalação de máquina de lavar e chuveiro',
+    '2017-03-26': 'Treino de pernas, treino ruim, pois me alimentei mal',
   }
 });
