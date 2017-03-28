@@ -60,5 +60,6 @@ window.friends.push({
     '2017-03-25': 'Fui no SorocabaCSS.',
     '2017-03-26': true,
     '2017-03-27': true,
+    '2017-03-28': true,
   }
 });
