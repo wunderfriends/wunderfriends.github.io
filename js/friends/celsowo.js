@@ -85,5 +85,6 @@ window.friends.push({
     '2017-03-26': 'Treino de pernas, treino ruim, pois me alimentei mal',
     '2017-03-27': 'Resolvendo o problema do gás do fogão do apartamento',
     '2017-03-28': 'Vendo a pintura do apartamento velho',
+    '2017-03-29': 'Instalei a cortina',
   }
 });
