@@ -87,5 +87,6 @@ window.friends.push({
     '2017-03-28': 'Vendo a pintura do apartamento velho',
     '2017-03-29': 'Instalei a cortina',
     '2017-03-30': 'Freela',
+    '2017-03-31': 'Assinei a internet',
   }
 });
