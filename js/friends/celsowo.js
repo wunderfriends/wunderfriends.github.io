@@ -88,5 +88,6 @@ window.friends.push({
     '2017-03-29': 'Instalei a cortina',
     '2017-03-30': 'Freela',
     '2017-03-31': 'Assinei a internet',
+    '2017-04-01': 'Finalizei o site da tecaudio',
   }
 });
