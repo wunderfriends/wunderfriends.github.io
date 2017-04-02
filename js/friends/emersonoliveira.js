@@ -65,5 +65,6 @@ window.friends.push({
     '2017-03-30': true,
     '2017-03-31': true,
     '2017-04-01': 'Configurei o roteador novo.',
+    '2017-04-02': true,
   }
 });
