@@ -90,5 +90,6 @@ window.friends.push({
     '2017-03-31': 'Assinei a internet',
     '2017-04-01': 'Finalizei o site da tecaudio',
     '2017-04-02': 'Treino de ombro e braços, foi treino fraco, podia ter sido melhor, má alimentação hoje',
+    '2017-04-03': 'Comprei lixa e massa corrida para',
   }
 });
