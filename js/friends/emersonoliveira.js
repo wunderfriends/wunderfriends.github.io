@@ -69,5 +69,6 @@ window.friends.push({
     '2017-04-03': true,
     '2017-04-04': 'Comprei dois fones novos.',
     '2017-04-05': true,
+    '2017-04-06': true,
   }
 });
