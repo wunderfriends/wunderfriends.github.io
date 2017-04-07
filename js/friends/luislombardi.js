@@ -23,6 +23,6 @@ window.friends.push({
     '2017-02-26': 'Visitei meus sogros',
     '2017-02-27': 'Refiz os anúncios da OLX; Escrevi mais um pouco no Medium (vou publicar essa semana)',
     '2017-04-05': 'Mais um método no excel que gera DML; Criei uma lista de coisas para conversar com minha esposa',
-    '2017-04-06': 'Finalizei umas tasks de manutenção de produto; Mais uma função no excel que gera DML; Fiz orçamento para upgrade no PC'
+    '2017-04-06': 'Finalizei umas tasks de manutenção de produto; Mais uma função no excel que gera DML; Fiz orçamento para upgrade no PC; Cancelei o convênio da Amil'
   }
 });
