@@ -91,5 +91,8 @@ window.friends.push({
     '2017-04-01': 'Finalizei o site da tecaudio',
     '2017-04-02': 'Treino de ombro e braços, foi treino fraco, podia ter sido melhor, má alimentação hoje',
     '2017-04-03': 'Comprei lixa e massa corrida para',
+    '2017-04-04': 'Corrigi o plugin de barcode para o NativeScript 3',
+    '2017-04-05': 'Migração para o NS3',
+    '2017-04-06': 'Pagamento do Pintor',
   }
 });
