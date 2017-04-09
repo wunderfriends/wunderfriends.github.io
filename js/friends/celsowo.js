@@ -95,5 +95,6 @@ window.friends.push({
     '2017-04-05': 'Migração para o NS3',
     '2017-04-06': 'Pagamento do Pintor',
     '2017-04-07': 'Atualização em produção',
+    '2017-04-08': 'Cortei o cabelo',
   }
 });
