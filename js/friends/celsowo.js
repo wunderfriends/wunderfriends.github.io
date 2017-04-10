@@ -97,5 +97,6 @@ window.friends.push({
     '2017-04-07': 'Atualização em produção',
     '2017-04-08': 'Cortei o cabelo',
     '2017-04-09': 'Café em família',
+    '2017-04-10': 'Peguei o fogão',
   }
 });
