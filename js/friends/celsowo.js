@@ -99,5 +99,6 @@ window.friends.push({
     '2017-04-09': 'Café em família',
     '2017-04-10': 'Peguei o fogão',
     '2017-04-11': 'Treino de peito',
+    '2017-04-12': 'Homologação do GO',
   }
 });
