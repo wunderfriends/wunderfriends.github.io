@@ -74,5 +74,7 @@ window.friends.push({
     '2017-04-08': 'Doei sangue xD',
     '2017-04-09': true,
     '2017-04-10': true,
+    '2017-04-11': true,
+    '2017-04-12': true,
   }
 });
