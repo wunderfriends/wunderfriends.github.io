@@ -63,6 +63,7 @@ window.friends.push({
     '2017-03-23': true,
     '2017-03-28': "Comecei a ler o livro o poder do habito",
     '2017-04-03': true,
-    '2017-04-12': "Escutei um podcast sobre a estrutura de streaming de vídeo da globo.com"
+    '2017-04-12': "Escutei um podcast sobre a estrutura de streaming de vídeo da globo.com",
+    '2017-04-15': true
   }
 });
