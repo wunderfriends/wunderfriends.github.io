@@ -101,5 +101,6 @@ window.friends.push({
     '2017-04-11': 'Treino de peito',
     '2017-04-12': 'Homologação do GO',
     '2017-04-13': 'Confirmaram minha inscrição no AvenueCode Hackathon',
+    '2017-04-14': 'Finalizei o projeto testes auditivos comportamentais',
   }
 });
