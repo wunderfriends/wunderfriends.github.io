@@ -102,5 +102,6 @@ window.friends.push({
     '2017-04-12': 'Homologação do GO',
     '2017-04-13': 'Confirmaram minha inscrição no AvenueCode Hackathon',
     '2017-04-14': 'Finalizei o projeto testes auditivos comportamentais',
+    '2017-04-15': 'Treino de perna, foi bom, mas senti fraqueza no legpress',
   }
 });
