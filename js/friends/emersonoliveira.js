@@ -78,5 +78,8 @@ window.friends.push({
     '2017-04-12': 'Treinei perna.',
     '2017-04-13': true,
     '2017-04-14': true,
+    '2017-04-15': 'Treinei parte superior',
+    '2017-04-16': true,
+    '2017-04-17': true,
   }
 });
