@@ -47,5 +47,7 @@ window.friends.push({
     '2017-03-23': true,
     '2017-03-24': "+3 pontos em produtividade, +2 em terminativa",
     '2017-03-31': "+1 ponto em resiliencia",
+    '2017-04-17': "levei os cartazes da setec pra MA, fiz o roteiro de recrutamento com a Amanda",
+    '2017-03-31': "tive idéia de chamar o KWA pra um dribbble meetup e entendi que a conexão é uma parte importante na organização ao conversar com o Celso",
   }
 });
