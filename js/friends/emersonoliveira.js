@@ -82,5 +82,6 @@ window.friends.push({
     '2017-04-16': true,
     '2017-04-17': 'Palestra Facens',
     '2017-04-18': 'Treino de Perna',
+    '2017-04-19': true,
   }
 });
