@@ -105,7 +105,7 @@ window.friends.push({
     '2017-04-15': 'Treino de perna, foi bom, mas senti fraqueza no legpress',
     '2017-04-16': 'Treino de peito/costa - volume, foi bom, mas senti um pouco de dor na remada curvada, revisar postura',
     '2017-04-17': 'Entrega de projetos',
-    '2014-04-18': 'Correção de bugs em produção',
-    '2014-04-19': 'Dulce completa 2 anos e 6 meses',
+    '2017-04-18': 'Correção de bugs em produção',
+    '2017-04-19': 'Dulce completa 2 anos e 6 meses',
   }
 });
