@@ -66,6 +66,7 @@ window.friends.push({
     '2017-04-12': "Escutei um podcast sobre a estrutura de streaming de vídeo da globo.com",
     '2017-04-15': true,
     '2017-04-18': true,
-    '2017-04-19': "Li até a pagina 135 do livro o poder do habito"
+    '2017-04-19': "Li até a pagina 135 do livro o poder do habito",
+    '2017-04-20': "Li até a pagina 147 do livro o poder do habito"
   }
 });
