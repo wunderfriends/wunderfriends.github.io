@@ -107,5 +107,6 @@ window.friends.push({
     '2017-04-17': 'Entrega de projetos',
     '2017-04-18': 'Correção de bugs em produção',
     '2017-04-19': 'Dulce completa 2 anos e 6 meses',
+    '2017-04-20': 'Entreguei as chaves do apartamento antigo',
   }
 });
