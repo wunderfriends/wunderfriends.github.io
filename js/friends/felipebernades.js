@@ -50,5 +50,8 @@ window.friends.push({
     '2017-04-17': "levei os cartazes da setec pra MA, fiz o roteiro de recrutamento com a Amanda",
     '2017-04-18': "tive idéia de chamar o KWA pra um dribbble meetup e entendi que a conexão é uma parte importante na organização ao conversar com o Celso",
     '2017-04-19': "li um post legal no hackernews sobre marketing de produto e finalizei a arte do guru sorocaba",
+    '2017-04-20': "sobrevivi a aula do levi",
+    '2017-04-21': "trabalhei num freela, cuidei das finanças de casa",
+    '2017-04-22': "estudei UI, pratiquei frankie cosmos"
   }
 });
