@@ -1,7 +1,7 @@
 window.friends = window.friends || [];
 window.friends.push({
   name: 'Felipe Bernardes',
-  color: '#02B2E7',
+  color: '#1a8e73',
   userGit: 'felipebernardes',
   streak: {
     '2017-01-08': true,
