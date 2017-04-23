@@ -52,6 +52,7 @@ window.friends.push({
     '2017-04-19': "li um post legal no hackernews sobre marketing de produto e finalizei a arte do guru sorocaba",
     '2017-04-20': "sobrevivi a aula do levi",
     '2017-04-21': "trabalhei num freela, cuidei das finanças de casa",
-    '2017-04-22': "estudei UI, pratiquei frankie cosmos"
+    '2017-04-22': "estudei UI, pratiquei frankie cosmos",
+    '2017-04-23': "declarei imposto, estudei vue e divulguei o guru sorocaba",
   }
 });
