@@ -109,5 +109,6 @@ window.friends.push({
     '2017-04-19': 'Dulce completa 2 anos e 6 meses',
     '2017-04-20': 'Entreguei as chaves do apartamento antigo',
     '2017-04-21': 'Dia não produtivo',
+    '2017-04-22': 'Resolvi o vazamento na torneira com super bonder',
   }
 });
