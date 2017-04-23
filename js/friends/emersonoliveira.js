@@ -84,5 +84,8 @@ window.friends.push({
     '2017-04-18': 'Treino de Perna',
     '2017-04-19': true,
     '2017-04-20': true,
+    '2017-04-21': 'Treinei parte superior.',
+    '2017-04-22': 'Encontro com os amigos da FATEC.',
+    '2017-04-23': 'Comemorar niver da namorada.',
   }
 });
