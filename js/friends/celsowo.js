@@ -110,5 +110,7 @@ window.friends.push({
     '2017-04-20': 'Entreguei as chaves do apartamento antigo',
     '2017-04-21': 'Dia não produtivo',
     '2017-04-22': 'Resolvi o vazamento na torneira com super bonder',
+    '2017-04-23': 'Adicionado a opção de usar função no lugar de string no output list do lazy',
+    '2017-04-24': 'Instalei o box do banheiro',
   }
 });
