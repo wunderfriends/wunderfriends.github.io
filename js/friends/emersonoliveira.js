@@ -88,5 +88,6 @@ window.friends.push({
     '2017-04-22': 'Encontro com os amigos da FATEC.',
     '2017-04-23': 'Comemorar niver da namorada.',
     '2017-04-24': 'Treino de perna.',
+    '2017-04-25': 'Fui para o Assai.',
   }
 });
