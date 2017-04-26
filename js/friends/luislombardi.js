@@ -26,6 +26,7 @@ window.friends.push({
     '2017-04-06': 'Finalizei umas tasks de manutenção de produto; Mais uma função no excel que gera DML; Fiz orçamento para upgrade no PC; Cancelei o convênio da Amil',
     '2017-04-11': 'Configurei as transferencias no Banco',
     '2017-04-12': 'Solicitei checkup no médico',
-    '2017-04-26': 'Declaracao do imposto de renda; Configuração Sublime 3; Estudo de javascript'
+    '2017-04-25': 'Declaracao do imposto de renda; Configuração Sublime 3; Estudo de javascript',
+    '2017-04-26': 'Conclusão do curso n1 de JS; Compras no supermercado'
   }
 });
