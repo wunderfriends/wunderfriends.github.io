@@ -112,5 +112,6 @@ window.friends.push({
     '2017-04-22': 'Resolvi o vazamento na torneira com super bonder',
     '2017-04-23': 'Adicionado a opção de usar função no lugar de string no output list do lazy',
     '2017-04-24': 'Instalei o box do banheiro',
+    '2017-04-25': 'Usei o angular-seed https://mgechev.github.io/angular-seed/',
   }
 });
