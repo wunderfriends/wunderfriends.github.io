@@ -89,5 +89,7 @@ window.friends.push({
     '2017-04-23': 'Comemorar niver da namorada.',
     '2017-04-24': 'Treino de perna.',
     '2017-04-25': 'Fui para o Assai.',
+    '2017-04-26': true,
+    '2017-04-27': true,
   }
 });
