@@ -114,5 +114,6 @@ window.friends.push({
     '2017-04-24': 'Instalei o box do banheiro',
     '2017-04-25': 'Usei o angular-seed https://mgechev.github.io/angular-seed/',
     '2017-04-26': 'Montei a landing page do easymentor',
+    '2017-04-27': 'Reunião da easymentor',
   }
 });
