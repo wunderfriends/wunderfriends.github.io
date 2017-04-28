@@ -91,5 +91,6 @@ window.friends.push({
     '2017-04-25': 'Fui para o Assai.',
     '2017-04-26': true,
     '2017-04-27': true,
+    '2017-04-28': true,
   }
 });
