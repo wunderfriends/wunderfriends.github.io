@@ -69,6 +69,8 @@ window.friends.push({
     '2017-04-19': "Li até a pagina 135 do livro o poder do habito",
     '2017-04-20': "Li até a pagina 147 do livro o poder do habito",
     '2017-04-22': "Estudei sobre Open Flow",
-    '2017-04-23': true
+    '2017-04-23': true,
+    '2017-04-29': true,
+    '2017-04-30': "Fiz uma conta na AWS"
   }
 });
