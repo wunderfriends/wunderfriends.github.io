@@ -116,5 +116,7 @@ window.friends.push({
     '2017-04-26': 'Montei a landing page do easymentor',
     '2017-04-27': 'Reunião da easymentor',
     '2017-04-28': 'Conversei com o gabriel sobre o opencaption',
+    '2017-04-29': 'Adicionado o platform do opencaption',
+    '2017-04-30': 'Trabalhar nos freelas',
   }
 });
