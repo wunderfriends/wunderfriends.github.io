@@ -118,5 +118,6 @@ window.friends.push({
     '2017-04-28': 'Conversei com o gabriel sobre o opencaption',
     '2017-04-29': 'Adicionado o platform do opencaption',
     '2017-04-30': 'Trabalhar nos freelas',
+    '2017-05-01': 'Assisti Wall-e',
   }
 });
