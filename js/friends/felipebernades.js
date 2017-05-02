@@ -55,5 +55,8 @@ window.friends.push({
     '2017-04-22': "estudei UI, pratiquei frankie cosmos",
     '2017-04-23': "declarei imposto, estudei vue e divulguei o guru sorocaba",
     '2017-04-24': "dei feedback do sorocabacss ao nucleo ETC da ufscar",
+    '2017-04-29': "ajudei no grupy @ fatecso",
+    '2017-05-01': "voltei a ler",
+    '2017-05-02': "divulguei o guru"
   }
 });
