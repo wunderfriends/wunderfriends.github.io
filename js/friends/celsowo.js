@@ -119,5 +119,6 @@ window.friends.push({
     '2017-04-29': 'Adicionado o platform do opencaption',
     '2017-04-30': 'Trabalhar nos freelas',
     '2017-05-01': 'Assisti Wall-e',
+    '2017-05-02': 'Ajustes no bau de atividades eduqa.me',
   }
 });
