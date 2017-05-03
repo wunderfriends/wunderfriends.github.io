@@ -57,6 +57,7 @@ window.friends.push({
     '2017-04-24': "dei feedback do sorocabacss ao nucleo ETC da ufscar",
     '2017-04-29': "ajudei no grupy @ fatecso",
     '2017-05-01': "voltei a ler",
-    '2017-05-02': "divulguei o guru"
+    '2017-05-02': "divulguei o guru",
+    '2017-05-03': "conf internacional do guru sorocaba #1!",
   }
 });
