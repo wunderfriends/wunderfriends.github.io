@@ -120,5 +120,7 @@ window.friends.push({
     '2017-04-30': 'Trabalhar nos freelas',
     '2017-05-01': 'Assisti Wall-e',
     '2017-05-02': 'Ajustes no bau de atividades eduqa.me',
+    '2017-05-03': 'Ajustes no easymentor',
+
   }
 });
