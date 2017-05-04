@@ -59,5 +59,6 @@ window.friends.push({
     '2017-05-01': "voltei a ler",
     '2017-05-02': "divulguei o guru",
     '2017-05-03': "conf internacional do guru sorocaba #1!",
+    '2017-05-04': "tally review",
   }
 });
