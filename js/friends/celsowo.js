@@ -121,6 +121,6 @@ window.friends.push({
     '2017-05-01': 'Assisti Wall-e',
     '2017-05-02': 'Ajustes no bau de atividades eduqa.me',
     '2017-05-03': 'Ajustes no easymentor',
-
+    '2017-05-04': 'Capotei de sono',
   }
 });
