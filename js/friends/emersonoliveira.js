@@ -100,5 +100,6 @@ window.friends.push({
     '2017-05-04': 'Estou lendo o livro, Como Mover o Monte Fuji?',
     '2017-05-05': true,
     '2017-05-06': true,
+    '2017-05-07': true,
   }
 });
