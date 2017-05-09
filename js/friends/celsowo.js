@@ -123,5 +123,8 @@ window.friends.push({
     '2017-05-03': 'Ajustes no easymentor',
     '2017-05-04': 'Capotei de sono',
     '2017-05-05': 'Renegociação caixa',
+    '2017-05-06': 'Experiance Jam 3',
+    '2017-05-07': 'Experiance Jam 3',
+    '2017-05-08': 'Implementei o MyCao',
   }
 });
