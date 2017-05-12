@@ -51,6 +51,10 @@ window.friends.push({
     '2017-03-10': 'Participei do tegra-radar',
     '2017-03-11': 'Retirei a minha tv do conserto',
     '2017-03-12': 'Fui a igreja ;)',
-    '2017-03-13': 'Fui ao dentista'
+    '2017-03-13': 'Fui ao dentista',
+    '2017-05-10': 'Paguei as contas e investi no td',
+    '2017-05-11': 'Comecei o curso de hadoop',
+    '2017-05-12': 'Resolvi a pendência da previdência'
+
   }
 });
