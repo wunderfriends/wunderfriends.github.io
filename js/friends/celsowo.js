@@ -129,5 +129,6 @@ window.friends.push({
     '2017-05-09': 'Treino de peito e costas - treino ruim, falta de energia',
     '2017-05-10': 'Treino de braços - treino médio, já com mais energia',
     '2017-05-11': 'Treino de pernas - treino médio, com fraqueza',
+    '2017-05-12': 'Reunião com o Cicero',
   }
 });
