@@ -130,5 +130,6 @@ window.friends.push({
     '2017-05-10': 'Treino de braços - treino médio, já com mais energia',
     '2017-05-11': 'Treino de pernas - treino médio, com fraqueza',
     '2017-05-12': 'Reunião com o Cicero',
+    '2017-05-13': 'Levei a dulce pra tomar vacina da gripe. Treino de peito/costa, senti melhoras na contração do peito',
   }
 });
