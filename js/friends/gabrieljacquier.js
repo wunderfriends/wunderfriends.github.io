@@ -73,6 +73,8 @@ window.friends.push({
     '2017-04-29': true,
     '2017-04-30': "Fiz uma conta na AWS",
     '2017-05-02': true,
-    '2017-05-03': true
+    '2017-05-03': true,
+    '2017-05-10': "Terminei o livro o poder do habito",
+    '2017-05-14': true
   }
 });
