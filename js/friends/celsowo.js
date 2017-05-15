@@ -132,5 +132,6 @@ window.friends.push({
     '2017-05-12': 'Reunião com o Cicero',
     '2017-05-13': 'Levei a dulce pra tomar vacina da gripe. Treino de peito/costa, senti melhoras na contração do peito',
     '2017-05-14': 'Treino de ombro/braços, médio, faltou energia',
+    '2017-05-15': 'Treino de pernas, voltei a treinar femoral, não estou conseguindo chegar até a falha nos exercícios',
   }
 });
