@@ -60,5 +60,9 @@ window.friends.push({
     '2017-05-02': "divulguei o guru",
     '2017-05-03': "conf internacional do guru sorocaba #1!",
     '2017-05-04': "tally review",
+    '2017-05-13': "academia e freela",
+    '2017-05-14': "academia e freela",
+    '2017-05-15': "estudos",
+    '2017-05-16': "saúde, estudos e academia",
   }
 });
