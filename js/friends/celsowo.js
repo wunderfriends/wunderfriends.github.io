@@ -135,5 +135,6 @@ window.friends.push({
     '2017-05-15': 'Treino de pernas, voltei a treinar femoral, não estou conseguindo chegar até a falha nos exercícios',
     '2017-05-16': 'Treino de peito/costas, dificuldade de concentração/foco',
     '2017-05-17': true,
+    '2017-05-18': true,
   }
 });
