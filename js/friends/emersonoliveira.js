@@ -112,5 +112,9 @@ window.friends.push({
     '2017-05-16': true,
     '2017-05-17': true,
     '2017-05-18': true,
+    '2017-05-19': true,
+    '2017-05-20': 'Primeira fase InterFatecs xD',
+    '2017-05-21': 'Assisti Balme!',
+    '2017-05-22': true,
   }
 });
