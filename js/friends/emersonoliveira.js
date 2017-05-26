@@ -119,5 +119,6 @@ window.friends.push({
     '2017-05-23': 'Treinei Superior.',
     '2017-05-24': true,
     '2017-05-25': true,
+    '2017-05-26': true,
   }
 });
