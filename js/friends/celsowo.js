@@ -146,5 +146,6 @@ window.friends.push({
     '2017-05-26': 'Treino de peito/costa',
     '2017-05-27': true,
     '2017-05-28': true,
+    '2017-05-29': true,
   }
 });
