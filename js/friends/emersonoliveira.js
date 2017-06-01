@@ -125,5 +125,6 @@ window.friends.push({
     '2017-05-29': 'Treino de perna.',
     '2017-05-30': true,
     '2017-05-31': true,
+    '2017-06-01': true,
   }
 });
