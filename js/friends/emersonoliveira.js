@@ -127,5 +127,8 @@ window.friends.push({
     '2017-05-31': true,
     '2017-06-01': true,
     '2017-06-02': true,
+    '2017-06-03': 'Hackathion Febraban',
+    '2017-06-04': 'Hackathion Febraban',
+    '2017-06-05': true,
   }
 });
