@@ -137,5 +137,6 @@ window.friends.push({
     '2017-06-10': 'Simulado Maratona de programaço Fatec-SO. Comi no Kaishi Sorocaba.',
     '2017-06-11': true,
     '2017-06-12': true,
+    '2017-06-13': true,
   }
 });
