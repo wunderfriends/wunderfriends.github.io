@@ -163,5 +163,6 @@ window.friends.push({
     '2017-06-12': true,
     '2017-06-13': true,
     '2017-06-14': true,
+    '2017-06-15': 'Gravação do primeiro por trás do código',
   }
 });
