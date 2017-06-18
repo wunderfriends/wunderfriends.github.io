@@ -165,5 +165,6 @@ window.friends.push({
     '2017-06-14': true,
     '2017-06-15': 'Gravação do primeiro por trás do código',
     '2017-06-16': 'Treino de peito/costa',
+    '2017-06-17': 'Treino de braços, foi fraco, falta de concentração',
   }
 });
