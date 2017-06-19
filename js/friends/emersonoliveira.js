@@ -141,5 +141,7 @@ window.friends.push({
     '2017-06-14': true,
     '2017-06-15': 'Evento do Bacon no Extra Santa Rosalia.',
     '2017-06-16': true,
+    '2017-06-18': true,
+    '2017-06-19': true,
   }
 });
