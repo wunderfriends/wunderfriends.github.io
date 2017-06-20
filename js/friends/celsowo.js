@@ -167,5 +167,7 @@ window.friends.push({
     '2017-06-16': 'Treino de peito/costa',
     '2017-06-17': 'Treino de braços, foi fraco, falta de concentração',
     '2017-06-18': 'Dia de fazer marmita: 3 x ( 200g - Arroz, 100g - Carne, 100g Batata) + 3 x (100g - Arroz, 100g - Carne, 80g Batata)',
+    '2017-06-19': 'Treino de perna, forçou mais o quadriceps',
+    '2017-06-20': 'Treino de peito, foi fraco, porque acordei atrasado',
   }
 });
