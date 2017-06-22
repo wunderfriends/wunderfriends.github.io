@@ -170,5 +170,6 @@ window.friends.push({
     '2017-06-19': 'Treino de perna, forçou mais o quadriceps',
     '2017-06-20': 'Treino de peito, foi fraco, porque acordei atrasado',
     '2017-06-21': 'Treino de pernas, razoável, faltou um pouco de força',
+    '2017-06-22': true,
   }
 });
