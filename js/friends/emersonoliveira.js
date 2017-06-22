@@ -145,5 +145,6 @@ window.friends.push({
     '2017-06-19': true,
     '2017-06-20': true,
     '2017-06-21': true,
+    '2017-06-22': 'Treinei Peito e Tricipes.',
   }
 });
