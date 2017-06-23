@@ -171,5 +171,6 @@ window.friends.push({
     '2017-06-20': 'Treino de peito, foi fraco, porque acordei atrasado',
     '2017-06-21': 'Treino de pernas, razoável, faltou um pouco de força',
     '2017-06-22': true,
+    '2017-06-23': true,
   }
 });
