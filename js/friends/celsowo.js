@@ -172,5 +172,6 @@ window.friends.push({
     '2017-06-21': 'Treino de pernas, razoável, faltou um pouco de força',
     '2017-06-22': true,
     '2017-06-23': true,
+    '2017-06-24': true,
   }
 });
