@@ -150,5 +150,6 @@ window.friends.push({
     '2017-06-24': 'Fui requisitar carteira definitiva.',
     '2017-06-25': true,
     '2017-06-26': 'Treino de Peito e Tricipes.',
+    '2017-06-27': 'Treino de Costa e Bicipes.',
   }
 });
