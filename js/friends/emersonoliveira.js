@@ -151,5 +151,6 @@ window.friends.push({
     '2017-06-25': true,
     '2017-06-26': 'Treino de Peito e Tricipes.',
     '2017-06-27': 'Treino de Costa e Bicipes.',
+    '2017-06-28': 'Treino de Perna e Ombro. Terminei o livro Como Mover o Monte Fuji.',
   }
 });
