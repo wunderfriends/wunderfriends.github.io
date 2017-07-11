@@ -163,6 +163,7 @@ window.friends.push({
     '2017-07-07': 'Treino de Perna e Ombro.',
     '2017-07-08': true,
     '2017-07-09': true,
-    '2017-07-10': 'Treino de Costa e Bicipes.',
+    '2017-07-10': true,
+    '2017-07-11': true,
   }
 });
