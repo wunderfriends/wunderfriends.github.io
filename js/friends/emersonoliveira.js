@@ -173,6 +173,7 @@ window.friends.push({
     '2017-07-17': true,
     '2017-07-18': true,
     '2017-07-19': 'Treinei Peito e Tricipes.',
-    '2017-07-20': true,
+    '2017-07-20': 'Treino de Costa e Bicipes.',
+    '2017-07-21': true,
   }
 });
