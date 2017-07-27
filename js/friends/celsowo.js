@@ -205,5 +205,6 @@ window.friends.push({
     '2017-07-24': true,
     '2017-07-25': 'Treino de peito/costa, curto',
     '2017-07-26': true,
+    '2017-07-27': true,
   }
 });
