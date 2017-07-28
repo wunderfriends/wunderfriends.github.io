@@ -28,6 +28,7 @@ window.friends.push({
     '2017-04-12': 'Solicitei checkup no médico',
     '2017-04-25': 'Declaracao do imposto de renda; Configuração Sublime 3; Estudo de javascript',
     '2017-04-26': 'Mais aulas do curso n1 de JS; Compras no supermercado',
-    '2017-04-27': 'Guardiões da Galaxia'
+    '2017-04-27': 'Guardiões da Galaxia',
+    '2017-07-28': 'Commitei umas coisas no Github'
   }
 });
