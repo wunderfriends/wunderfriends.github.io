@@ -212,5 +212,6 @@ window.friends.push({
     '2017-07-31': true,
     '2017-08-01': true,
     '2017-08-02': true,
+    '2017-11-27': 'Treino de ombros',
   }
 });
