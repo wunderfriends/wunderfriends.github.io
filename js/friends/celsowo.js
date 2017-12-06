@@ -213,5 +213,6 @@ window.friends.push({
     '2017-08-01': true,
     '2017-08-02': true,
     '2017-11-27': 'Treino de ombros',
+    '2017-12-05': 'Deploy',
   }
 });
